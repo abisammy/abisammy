@@ -41,6 +41,6 @@
 
 <img align="left" alt="abisammy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abisammy&show_icons=true&hide_border=true" />
 
-[github]: https://github.com/abisammy/abisammy
+[github]: https://github.com/abisammy
 [pop_os]: https://pop.system76.com/
 [stackoverflow]: https://stackoverflow.com/users/14965364/abisammy
