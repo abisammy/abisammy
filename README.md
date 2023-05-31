@@ -8,20 +8,14 @@
 
 ### Languages that I know, and tools that I use
 
--   <img align="left" alt="Visual Studio Code" width="26px" src="images/visual-studio-code.png" /> **Visual studio code**
+-   <img align="left" alt="javascript" width="26px" src="images/javascript.png" /><img align="left" alt="typescript" width="26px" src="images/typescipt.png" />**javascript** _and_ **typescript**
+-   <img align="left" alt="Node JS" width="26px" src="images/nodejs.png" /> **Node JS**
+-   <img align="left" alt="Mongo DB" width="26px" src="images/mongodb.png" /> **Mongo DB**
+-   <img  alt="C Sharp" height="26px" src="images/csharp.png" /> <img  alt="Visual Basic" height="26px" src="images/vbdotnet.png" />**C** _and_ **C#**
 
 -   <img align="left" alt="HTML5" width="26px" src="images/html.png" /><img align="left" alt="CSS3" width="26px" src="images/css.png" />**HTML5** _and_ **CSS3**
-
 -   <img align="left" alt="Sass" width="26px" src="images/sass.png" /> **Sass**
-
--   <img align="left" alt="javascript" width="26px" src="images/javascript.png" /><img align="left" alt="typescript" width="26px" src="images/typescipt.png" />
-    **javascript** _and_ **typescript**
-
--   <img align="left" alt="Node JS" width="26px" src="images/nodejs.png" /> **Node JS**
-
--   <img align="left" alt="Mongo DB" width="26px" src="images/mongodb.png" /> **Mongo DB**
--   <img  alt="C Sharp" height="26px" src="images/csharp.png" /> And <img  alt="Visual Basic" height="26px" src="images/vbdotnet.png" />
-
+-   <img align="left" alt="Visual Studio Code" width="26px" src="images/visual-studio-code.png" /> **Visual studio code**
 -   [<img align="left" alt="Github" width="26px" src="images/github.png" />][github] **Git** _and_ **Github**
 
 ## Other profiles
